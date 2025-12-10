@@ -88,7 +88,8 @@ Used for simulating persistent data reads/writes during the MVP phase.
 To initialize a local copy of the application, execute the following in a terminal environment:
 
 # 1. Clone the repository to local directory
-$git clone [YOUR_REPO_URL] campus-link-kasu$ cd campus-link-kasu
+$git clone https://github.com/chankuzy/campus-link.git 
+$cd campus-link
 
 # 2. Install required dependencies
 $ npm install 
