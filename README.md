@@ -2,7 +2,7 @@
 
 ACADEMIC RESOURCE EXCHANGE | KASU MVP
 
-<img alt="Terminal-Style Banner" src="[suspicious link removed]" />
+<img alt="Terminal-Style Banner" src="/src/assets/image1.png" />
 
 // 0. PROJECT OVERVIEW: DATA INJECTION SUCCESS
 
@@ -39,6 +39,9 @@ Core Modules
 LIVE
 
 Authentication, Dashboard, Resource Library, and Upload Forms.
+
+<img alt="Terminal-Style Banner" src="/src/assets/image2.png" />
+
 
 // 1. TECHNOLOGIES & DEPENDENCIES
 
