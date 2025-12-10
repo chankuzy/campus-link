@@ -45,7 +45,7 @@ export default function LandingAuthWrapper() {
       <AuthModal />
       
       <footer className="mt-8 text-xs text-gray-700 font-mono text-center">
-        // SYSTEM_STATUS: MVP_VITE_V2.0 | LOCAL_STORAGE_PERSISTENCE
+        By NUHU ABDULLAHI
       </footer>
     </div>
   );
